@@ -119,7 +119,7 @@ void matCalcSingle()
 //     {
 //         for k=1 to N
 //         {
-//             Result[i][j] = Result[i][j] + Matrix_A[i][k] * Matrix_B[k][j];  by difinition
+//             Result[i][j] = Matrix_A[i][k] * Matrix_B[k][j];  by difinition
 //         }
 //     }
 // }
